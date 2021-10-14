@@ -1,6 +1,6 @@
 # CAR SEATS: Linear Regression Project
 
-In this linear regression project, The Carseats dataset has been used.
+In this linear regression project, the Carseats dataset has been used.
 
 The dataset is simulated and it is described in the lines that follow:
 It is in a tabular format with 400 observations on the following 11 variables:
